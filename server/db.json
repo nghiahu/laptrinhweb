@@ -1,0 +1,597 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "Admin",
+      "fullName": "Admin",
+      "email": "admin@gmail.com",
+      "address": [
+        {
+          "id": 1,
+          "body": "Hà Nội"
+        },
+        {
+          "id": 2,
+          "body": "Hà Giang"
+        },
+        {
+          "id": 3,
+          "body": "Hà Tĩnh"
+        }
+      ],
+      "phoneNumber": "0945823185",
+      "password": "admin123",
+      "status": false,
+      "role": true,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 2,
+      "userName": "User2",
+      "fullName": "User Two",
+      "email": "user2@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852582",
+      "password": "user2123",
+      "status": true,
+      "role": true,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 3,
+      "userName": "User3",
+      "fullName": "User Three",
+      "email": "user3@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852583",
+      "password": "user3123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 4,
+      "userName": "User4",
+      "fullName": "User Four",
+      "email": "user4@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852584",
+      "password": "user4123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 5,
+      "userName": "User5",
+      "fullName": "User Five",
+      "email": "user5@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852585",
+      "password": "user5123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 6,
+      "userName": "User6",
+      "fullName": "User Six",
+      "email": "user6@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852586",
+      "password": "user6123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 7,
+      "userName": "User7",
+      "fullName": "User Seven",
+      "email": "user7@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852587",
+      "password": "user7123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 8,
+      "userName": "User8",
+      "fullName": "User Eight",
+      "email": "user8@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852588",
+      "password": "user8123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 9,
+      "userName": "User9",
+      "fullName": "User Nine",
+      "email": "user9@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852589",
+      "password": "user9123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "id": 10,
+      "userName": "User10",
+      "fullName": "User Ten",
+      "email": "user10@gmail.com",
+      "address": [],
+      "phoneNumber": "0951852590",
+      "password": "user10123",
+      "status": true,
+      "role": false,
+      "avata": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "17/10/2024",
+      "updateAt": "17/10/2024"
+    },
+    {
+      "userName": "Nghia0384",
+      "fullName": "Ngô Hữu Nghĩa",
+      "email": "nghia120425@gmail.com",
+      "address": [],
+      "phoneNumber": "",
+      "password": "nghia123",
+      "status": true,
+      "role": false,
+      "avatar": "",
+      "lovelyId": [],
+      "cart": [],
+      "createAt": "31/10/2024",
+      "updateAt": "31/10/2024",
+      "id": 11
+    },
+    {
+      "userName": "Nghia0482",
+      "fullName": "Ngô Hữu Nghĩa",
+      "email": "nghia120452@gmail.com",
+      "address": [],
+      "phoneNumber": "",
+      "password": "nghia12345",
+      "status": true,
+      "role": false,
+      "avatar": "",
+      "lovelyId": [],
+      "cart": [
+        {
+          "id": 4,
+          "image": [
+            "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fs-l1600%20(4).webp?alt=media&token=e5801290-cf48-4388-b28c-387c9efe4de7"
+          ],
+          "price": "40000",
+          "quantity": 1,
+          "name": "Sản phẩm 4"
+        }
+      ],
+      "createAt": "1/11/2024",
+      "updateAt": "1/11/2024",
+      "id": 12
+    }
+  ],
+  "category": [
+    {
+      "name": "Mô hình gỗ",
+      "description": "Mô hình bằng gỗ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fshopping.webp?alt=media&token=46761d18-6fc6-4f83-94dc-7406bdf9ae5d",
+      "status": true,
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 1
+    },
+    {
+      "name": "Mô hình kim loại",
+      "description": "Mô hình kim loại",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fo1cn01j17g7a26ugfsht8he___40847721.jpg_q50.jpg__c876bcd9a48442989452c2073284580d_large.jpeg?alt=media&token=62fdd267-dd5d-423e-95e2-0c4365dc75e1",
+      "status": true,
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 2
+    },
+    {
+      "name": "Mô Hình Nhựa 3D",
+      "description": "Mô hình nhựa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fmohinhnhua.webp?alt=media&token=198f5bca-95d1-4662-a4ac-2cbcfdabd58d",
+      "status": true,
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 3
+    },
+    {
+      "name": "Mô hình gundam",
+      "description": "Mô hình robot gundam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fgundam.jpg?alt=media&token=00ecdf25-da68-4c1c-b74a-2124392490b3",
+      "status": true,
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 4
+    },
+    {
+      "name": "Mô hình anime",
+      "description": "Mô hình anime các loại",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fmo-hinh-ace-hoa-quyen-25cm-anime-one-piece-4.jpg.webp?alt=media&token=dc763bef-37c3-4dbf-b25d-5c96163417fc",
+      "status": true,
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Mô Hình Lắp Ghép Đồng Hồ Gỗ 3D The Dream Tourbillon",
+      "categoryId": 1,
+      "description": "Mô hình đồng hồ gỗ 3D tự lắp ráp được trang bị động cơ Tourbillon cao cấp, cùng kỹ thuật cắt laser tinh xảo, mang đến những trải nghiệm vô cùng thú vị. Đây không chỉ là một mô hình cơ học có thể vận hành như thật sau khi lắp ráp, đây còn là một món quà ý nghĩa của bạn dành cho người nhận. ######## ###vendor_info###Thương hiệu ",
+      "price": "2000000",
+      "stock": "145",
+      "quantity": 0,
+      "likes": 0,
+      "sold": 0,
+      "evaluate": 5,
+      "video": "",
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fshopping.webp?alt=media&token=8cd8876c-addd-4954-b2df-ab07aaa8d1c9"
+      ],
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 1
+    },
+    {
+      "name": "Mô Hình Gỗ 3D Lắp Ráp ROBOTIME Xe Máy Cày Tractor LK401 - WP143",
+      "categoryId": 1,
+      "description": "Mô Hình Gỗ 3D Lắp Ráp ROBOTIME Xe Máy Cày Tractor LK401 - WP143\n\nMã sản phẩm: WP143\nChất liệu: Gỗ ép, vải, nhựa\nKích thước (Dài*Rộng*Cao):23.8 X 11.8 X 14 CM\nĐộ khó: 4/10\nMảnh ghép: 136\nHãng sản xuất: Robotime\nPhù hợp độ tuổi: 14+\nDụng cụ cần thiết: Kìm cắt, kìm nhọn, nhíp, bộ uốn",
+      "price": "498000",
+      "stock": "165",
+      "quantity": 0,
+      "likes": 0,
+      "sold": 0,
+      "evaluate": 5,
+      "video": "",
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fmo-hinh-go-3d-lap-rap-robotime-xe-may-cay-tractor-lk401-wp143-4_d7fa02cac8ad442798389af7597554f4_master.webp?alt=media&token=09dfe6be-aa62-4faa-a203-b056964c738c",
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fmo-hinh-go-3d-lap-rap-robotime-xe-may-cay-tractor-lk401-wp143-5_4c65e8c046a14b64bae8483c1c932b4a_master.webp?alt=media&token=5e1b79b9-9a11-4a6f-b8ef-8232325cd255",
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2F25c879dc7c074e59906db68d84246ab5_58f177b9d3cf46f2867d4b01acf280ed_master.webp?alt=media&token=f698e609-867e-4795-bbff-4c082e23ba82"
+      ],
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 2
+    },
+    {
+      "name": "Mô Hình Lắp ráp 3d Kim Loại bọ cạp 23 cm có đèn(ráp sẵn)",
+      "categoryId": 2,
+      "description": "Mô hình bọ cạp bằng kim loại",
+      "price": "800000",
+      "stock": "210",
+      "quantity": 0,
+      "likes": 0,
+      "sold": 0,
+      "evaluate": 5,
+      "video": "",
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fkimloai.webp?alt=media&token=1598bacc-b3fc-4623-951d-ab8c681a5dc6"
+      ],
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 3
+    },
+    {
+      "name": "Mô hình lắp ráp kim loại 3d xe tăng -khí tài quân sự",
+      "categoryId": 2,
+      "description": "Mô hình xe tăng quân sự",
+      "price": "101000",
+      "stock": "102",
+      "quantity": 0,
+      "likes": 0,
+      "sold": 0,
+      "evaluate": 5,
+      "video": "",
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fmohinkimloaixetang.jpg?alt=media&token=e4f4735f-c3ff-45c6-af37-bb400e3ca6fb"
+      ],
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 4
+    },
+    {
+      "name": "Mô Hình Nhựa 3D Lắp Ráp TGL Xe Mini Cooper T5025 (2292 mảnh) 1:10 - LG0031",
+      "categoryId": 3,
+      "description": "Mô hình ô tô nhựa 3d lắp ráp",
+      "price": "1800000",
+      "stock": "1999999",
+      "quantity": 0,
+      "likes": 0,
+      "sold": 0,
+      "evaluate": 5,
+      "video": "",
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fsg-11134201-22110-we1p7jpi8hjv6e%40resize_w450_nl.webp?alt=media&token=aa90d952-8380-4fed-9dfc-fd389d73b589"
+      ],
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 5
+    },
+    {
+      "name": "Mô hình Gundam MG 1/100 FREEDOM 6650 GUNDAM màu Đen , hàng Cao cấp - Cao 18cm - nặng 1kg - Figure Gundam - Có hộp màu N1-K12-T3-S2",
+      "categoryId": 4,
+      "description": "Mô hình robot gundam",
+      "price": "530000",
+      "stock": "1042",
+      "quantity": 0,
+      "likes": 0,
+      "sold": 0,
+      "evaluate": 5,
+      "video": "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/videos%2Fm%C3%B4%20h%C3%ACnh%20gundam%20-%20T%C3%ACm%20tr%C3%AAn%20Google.mp4?alt=media&token=caa2f9b3-2823-4e60-9419-5c11feb750c2",
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/m26-project-d5afd.appspot.com/o/images%2Fgundamden.webp?alt=media&token=0078cbea-c624-4bf3-aefb-0a3fe789c2b0"
+      ],
+      "createAt": "24/12/2024",
+      "updateAt": "24/12/2024",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "orders": [
+    {
+      "id": 1,
+      "idUser": 2,
+      "code": "SOA24155QOE",
+      "order_details": [
+        {
+          "idProduct": 1,
+          "nameProduct": "Mô hình 1",
+          "price": 10000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 2,
+          "nameProduct": "Mô hình 2",
+          "price": 20000,
+          "quantity": 2
+        }
+      ],
+      "status": 5,
+      "totalPrice": 10000000,
+      "note": "Note ghi chú gì đó ở đây",
+      "receiveName": "Duy bùi",
+      "receiveAddress": "Số 5-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912552459",
+      "createAt": "29/10/2024",
+      "updateAt": "29/10/2024"
+    },
+    {
+      "id": 2,
+      "idUser": 3,
+      "code": "SOA83012FJW",
+      "order_details": [
+        {
+          "idProduct": 3,
+          "nameProduct": "Mô hình 3",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 4,
+          "nameProduct": "Mô hình 4",
+          "price": 40000,
+          "quantity": 3
+        }
+      ],
+      "status": 2,
+      "totalPrice": 12000000,
+      "note": "Note ghi chú thứ hai ở đây",
+      "receiveName": "Nguyễn Văn A",
+      "receiveAddress": "Số 7-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912345678",
+      "createAt": "1/11/2024",
+      "updateAt": "29/10/2024"
+    },
+    {
+      "id": 3,
+      "idUser": 4,
+      "code": "SOA37849RDK",
+      "order_details": [
+        {
+          "idProduct": 5,
+          "nameProduct": "Mô hình 5",
+          "price": 50000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 6,
+          "nameProduct": "Mô hình 6",
+          "price": 60000,
+          "quantity": 2
+        }
+      ],
+      "status": 1,
+      "totalPrice": 15000000,
+      "note": "Note ghi chú thứ ba ở đây",
+      "receiveName": "Lê Văn B",
+      "receiveAddress": "Số 8-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912456789",
+      "createAt": "1/11/2024",
+      "updateAt": "29/10/2024"
+    },
+    {
+      "id": 5,
+      "idUser": 6,
+      "code": "SOA58493KDO",
+      "order_details": [
+        {
+          "idProduct": 9,
+          "nameProduct": "Mô hình 9",
+          "price": 90000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 10,
+          "nameProduct": "Mô hình 10",
+          "price": 100000,
+          "quantity": 2
+        }
+      ],
+      "status": 1,
+      "totalPrice": 20000000,
+      "note": "Note ghi chú thứ năm ở đây",
+      "receiveName": "Ngô Văn D",
+      "receiveAddress": "Số 10-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912341111",
+      "createAt": "29/10/2024",
+      "updateAt": "29/10/2024"
+    },
+    {
+      "id": 6,
+      "idUser": 7,
+      "code": "SOA69042PLQ",
+      "order_details": [
+        {
+          "idProduct": 11,
+          "nameProduct": "Mô hình 11",
+          "price": 110000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 12,
+          "nameProduct": "Mô hình 12",
+          "price": 120000,
+          "quantity": 2
+        }
+      ],
+      "status": 2,
+      "totalPrice": 22000000,
+      "note": "Note ghi chú thứ sáu ở đây",
+      "receiveName": "Trần Thị E",
+      "receiveAddress": "Số 11-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912342222",
+      "createAt": "1/11/2024",
+      "updateAt": "29/10/2024"
+    },
+    {
+      "id": 7,
+      "idUser": 8,
+      "code": "SOA79453RSQ",
+      "order_details": [
+        {
+          "idProduct": 13,
+          "nameProduct": "Mô hình 13",
+          "price": 130000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 14,
+          "nameProduct": "Mô hình 14",
+          "price": 140000,
+          "quantity": 2
+        }
+      ],
+      "status": 1,
+      "totalPrice": 23000000,
+      "note": "Note ghi chú thứ bảy ở đây",
+      "receiveName": "Vũ Văn F",
+      "receiveAddress": "Số 12-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912343333",
+      "createAt": "29/10/2024",
+      "updateAt": "29/10/2024"
+    },
+    {
+      "id": 8,
+      "idUser": 9,
+      "code": "SOA84329TWS",
+      "order_details": [
+        {
+          "idProduct": 15,
+          "nameProduct": "Mô hình 15",
+          "price": 150000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 16,
+          "nameProduct": "Mô hình 16",
+          "price": 160000,
+          "quantity": 2
+        }
+      ],
+      "status": 2,
+      "totalPrice": 24000000,
+      "note": "Note ghi chú thứ tám ở đây",
+      "receiveName": "Đặng Thị G",
+      "receiveAddress": "Số 13-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912344444",
+      "createAt": "29/10/2024",
+      "updateAt": "29/10/2024"
+    },
+    {
+      "id": 9,
+      "idUser": 10,
+      "code": "SOA93584UYE",
+      "order_details": [
+        {
+          "idProduct": 17,
+          "nameProduct": "Mô hình 17",
+          "price": 170000,
+          "quantity": 1
+        },
+        {
+          "idProduct": 18,
+          "nameProduct": "Mô hình 18",
+          "price": 180000,
+          "quantity": 2
+        }
+      ],
+      "status": 1,
+      "totalPrice": 25000000,
+      "note": "Note ghi chú thứ chín ở đây",
+      "receiveName": "Phùng Văn H",
+      "receiveAddress": "Số 14-Mộ Lao-Hà Đông-Hà Nội",
+      "receive_phone": "0912345555",
+      "createAt": "29/10/2024",
+      "updateAt": "29/10/2024"
+    }
+  ]
+}
